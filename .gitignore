@@ -92,3 +92,12 @@ Thumbs.db
 # =========================
 
 .ipynb_checkpoints/
+
+reports/*
+!reports/.gitkeep
+
+uploads/*
+!uploads/.gitkeep
+
+patient_history/*
+!patient_history/.gitkeep
