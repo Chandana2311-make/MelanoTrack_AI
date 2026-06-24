@@ -1,0 +1,94 @@
+# =========================
+
+# DATASETS (VERY LARGE)
+
+# =========================
+
+raw_datasets/
+dataset/static/
+dataset/longitudinal/
+
+# Optional: keep metadata files
+
+# !dataset/metadata/
+
+# =========================
+
+# MODEL FILES
+
+# =========================
+
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.pickle
+*.pkl
+
+# =========================
+
+# PYTHON CACHE
+
+# =========================
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+
+# VIRTUAL ENVIRONMENTS
+
+# =========================
+
+venv/
+.venv/
+env/
+
+# =========================
+
+# VS CODE
+
+# =========================
+
+.vscode/
+.history/
+
+# =========================
+
+# GENERATED FILES
+
+# =========================
+
+uploads/
+reports/
+patient_history/
+
+# =========================
+
+# TEMP IMAGES
+
+# =========================
+
+current.jpg
+previous.jpg
+*.tmp
+
+# =========================
+
+# OS FILES
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# JUPYTER
+
+# =========================
+
+.ipynb_checkpoints/
